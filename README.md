@@ -1,6 +1,6 @@
 # FMCG-Sales-Analysis
 Sales Analysis FMCG Dataset using Python,
-Sumber Data : Kaggle
+- Sumber Data : Kaggle
 
 ## Project Overview
 Analisis data penjualan FMCG untuk mengidentifikasi:

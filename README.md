@@ -31,7 +31,13 @@ E-commerce menghasilkan total penjualan yang lebih tinggi dibandingkan Retail.
 Terdapat indikasi bahwa strategi promosi tidak efektif dalam meningkatkan permintaan pelanggan.
 
 ### Seasonality
-Peak Season penjualan terjadi pada bulan Juli .
+Peak Season penjualan terjadi pada bulan Juli.
+
+### Sales by Delivery Days
+Pengiriman tepat waktu menghasilkan volume penjualan yang lebih tinggi. Dapat dikatakan pengiriman tepat waktu jika rentang waktu pengiriman tidak lebih dari 3 hari
+
+### Revenue by Type Pack
+Single pack mendominasi kontribusi pendapatan dibandingkan Multipack dan Karton.
 
 ## Business Recommendation
 1. Optimalkan Persediaan Berdasarkan Pola Musiman

@@ -20,8 +20,9 @@ Analisis data penjualan FMCG untuk mengidentifikasi:
 - Statistics
 - ExponentialSmoothing
 
-### Top Product
+### Top Product & Bottom Product
 Product Yogurt menghasilkan revenue tertinggi.
+Product Juice menghasilkan revenue tertinggi.
 
 ### Top Channel
 E-commerce menghasilkan total penjualan yang lebih tinggi dibandingkan Retail.
